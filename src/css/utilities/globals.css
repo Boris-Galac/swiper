@@ -28,11 +28,11 @@ body {
 .slide-3 {
   background-color: rgb(218, 150, 56);
 }
-picture {
+.ad-wrapper {
   width: 100%;
   height: 100%;
 }
-picture img {
+.ad-wrapper img {
   width: 100%;
   height: 100%;
 }
