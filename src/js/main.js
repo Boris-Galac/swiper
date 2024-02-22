@@ -23,7 +23,6 @@
 var swiper = new Swiper(".mySwiper", {
   effect: "cube",
   grabCursor: true,
-  loop: true,
   cubeEffect: {
     shadow: true,
     slideShadows: true,
