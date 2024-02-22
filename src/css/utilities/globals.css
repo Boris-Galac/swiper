@@ -3,7 +3,7 @@
   margin-inline: auto;
 }
 body {
-  background-color: rgb(116, 115, 114);
+  background-color: rgb(97, 176, 154);
 }
 .main {
   display: grid;
@@ -27,12 +27,4 @@ body {
 }
 .slide-3 {
   background-color: rgb(218, 150, 56);
-}
-.ad-wrapper {
-  width: 100%;
-  height: 100%;
-}
-.ad-wrapper img {
-  width: 100%;
-  height: 100%;
 }
