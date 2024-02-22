@@ -2,6 +2,9 @@
   width: min(100% - 32px, 1024px);
   margin-inline: auto;
 }
+body {
+  background-color: rgb(43, 57, 62);
+}
 .main {
   display: grid;
   place-content: center;
